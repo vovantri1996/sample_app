@@ -32,3 +32,41 @@
 en:
   layouts: 
     title: "Ruby on Rails Tutorial Sample App"
+    footer1: "The "
+    footer2: "Ruby on Rails Tutorial"
+    footer3: "by "
+    footer4: "Michael Hartl"
+    footer5: "About"
+    footer6: "Contact"
+    footer7: "News"
+  static_pages:
+    ruby: "Ruby on Rails Tutorial"
+    home:
+      hello: "Welcome to the Sample App"
+      home1: "This is the home page for the"
+      home2: "sample application."
+      home3: "Rails logo"
+    help:
+      title: "Help"
+      help1: "Get help on the Ruby on Rails Tutorial at the"
+      help2: "Rails Tutorial help section"
+      help3: "To get help on this sample app, see the"
+      help4: "book"
+    contact:
+      title: "Contact"
+      contact1: "This is the sample application for the tutorial."
+      contact2: "contact page"
+      contact3: "."
+    about:
+      title: "About"
+      about1: " is a"
+      about2: " book"
+      about3: " and"
+      about4: "screencast series"
+      about5: "to teach web development with"
+      about6: "Ruby on Rails"
+      about7: "This is the sample application for the tutorial."
+  users:
+    new:
+      title: "Sign up"
+      new1: "This will be a signup page for new users."
